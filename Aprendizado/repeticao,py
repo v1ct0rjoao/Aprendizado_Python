@@ -1,0 +1,9 @@
+for i in range(5): 
+    print("iteração", i )
+    
+    
+     
+contador = 0
+while contador < 5:
+    print("Contador: " , contador)
+    contador += 1

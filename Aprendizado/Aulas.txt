@@ -1,0 +1,22 @@
+Aula 2: Sintaxe Básica e Tipos de Dados
+
+Variáveis e Tipos Primitivos:
+
+Inteiros (int) 
+Ponto Flutuante (float) 
+Strings (str) 
+Booleanos (bool).
+
+nome = input("Qual é o seu nome? ")
+print("Olá,", nome)
+
+Aula 3: Operadores e Estruturas Condicionais
+
+Operadores Matemáticos: +, -, *, /, //, %, **
+
+Operadores Relacionais: ==, !=, >, <, >=, <=
+
+Operadores Lógicos: and, or, not
+
+Condicionais (if, elif, else)
+
